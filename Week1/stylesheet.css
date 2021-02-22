@@ -1,0 +1,53 @@
+h2{
+    color: green; 
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    color: red;
+}
+h2{
+    color: green;
+    border: dotted;
+}
+#travel{
+    color:indigo;
+}
+.mini{
+    color:#037272;
+}
+.visit{
+    color:purple;
+    font-size: 70px;
+}
+body{
+    background-color: peachpuff;
+}
+#click{
+    color:peru;
+}
+
+#click:hover{
+color:red;
+}
+a link {
+    color:tomato
+}
+
+div p {
+    color: red
+}
+p.dotted {border-style: dotted;}
+p.dashed {border-style: dashed;}
+p.solid {
+    border-style: solid;
+border-radius: 25%;
+}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+p.ridge {border-style: ridge;}
+p.inset {border-style: inset;}
+p.outset {border-style: outset;}
+p.none {border-style: none;}
+p.hidden {border-style: hidden;}
+p.mix {border-style: dotted dashed solid double;}
